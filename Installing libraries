@@ -1,0 +1,10 @@
+#in the case of intalling Libralies if u are using pyhon Notebook, Here we go with the code
+# Install required libraries
+!pip install mrjob textblob nltk --quiet
+
+# Download NLTK stopwords
+import nltk
+nltk.download('stopwords')
+
+# Download corpora for TextBlob
+!python -m textblob.download_corpora
