@@ -1,0 +1,3 @@
+"positive"	475886
+"neutral"	164070
+"negative"	61465

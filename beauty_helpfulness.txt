@@ -1,0 +1,1 @@
+"average_helpfulness"	0.9235882245612435
